@@ -1,0 +1,27 @@
+backcall==0.2.0
+certifi==2020.6.20
+chardet==3.0.4
+colorama==0.4.3
+coverage==5.3
+decorator==4.4.2
+idna==2.10
+ipython==7.18.1
+ipython-genutils==0.2.0
+jedi==0.17.2
+parso==0.8.0
+pickleshare==0.7.5
+Pillow==7.2.0
+prompt-toolkit==3.0.7
+pygame==2.0.0.dev8
+Pygments==2.7.1
+requests==2.24.0
+simple-draw==2.6.8
+six==1.15.0
+traitlets==5.0.4
+urllib3==1.25.10
+vk-api==11.9.0
+wcwidth==0.2.5
+peewee==3.13.3
+opencv-contrib-python==4.4.0.42
+lxml == 4.5.2
+psycopg2 == 2.8.6
