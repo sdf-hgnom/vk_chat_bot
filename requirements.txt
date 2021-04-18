@@ -23,5 +23,5 @@ vk-api==11.9.0
 wcwidth==0.2.5
 peewee==3.13.3
 opencv-contrib-python==4.4.0.42
-lxml == 4.5.2
+lxml == 4.6.3
 psycopg2 == 2.8.6
