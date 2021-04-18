@@ -13,7 +13,7 @@ pickleshare==0.7.5
 Pillow==7.2.0
 prompt-toolkit==3.0.7
 pygame==2.0.0.dev8
-Pygments==2.7.1
+Pygments==2.7.4
 requests==2.24.0
 simple-draw==2.6.8
 six==1.15.0
