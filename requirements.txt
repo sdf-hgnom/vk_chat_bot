@@ -12,10 +12,10 @@ parso==0.8.0
 pickleshare==0.7.5
 Pillow==8.3.2
 prompt-toolkit==3.0.7
-pygame==2.0.0.dev8
+pygame==2.1.1
 Pygments==2.7.4
 requests==2.24.0
-simple-draw==2.6.8
+simple-draw==2.7.0
 six==1.15.0
 traitlets==5.0.4
 urllib3==1.26.5
@@ -23,5 +23,5 @@ vk-api==11.9.0
 wcwidth==0.2.5
 peewee==3.13.3
 opencv-contrib-python==4.4.0.42
-lxml ==4.6.3
+lxml ==4.7.1
 psycopg2 == 2.8.6
