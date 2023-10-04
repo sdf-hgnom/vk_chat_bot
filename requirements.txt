@@ -10,7 +10,7 @@ ipython-genutils==0.2.0
 jedi==0.17.2
 parso==0.8.0
 pickleshare==0.7.5
-Pillow==9.3.0
+Pillow==10.0.1
 prompt-toolkit==3.0.7
 pygame==2.1.1
 Pygments==2.15.0
